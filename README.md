@@ -7,6 +7,8 @@ delight-serialization
 
 Find out latest version [here](http://modules.appjangle.com/delight-serialization/latest/project-summary.html).
 
+Use [Java Delight Repository](https://github.com/javadelight/delight-main#maven-repository).
+
 
 ## Further Documentation
 
