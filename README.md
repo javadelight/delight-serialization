@@ -3,6 +3,13 @@
 delight-serialization
 =================
 
+## Maven Dependency
+
+Find out latest version [here](http://modules.appjangle.com/delight-serialization/latest/project-summary.html).
+
+
+## Further Documentation
+
 
 A cross-platform and generalizable Java serialization API.
 
